@@ -4,22 +4,28 @@ The Hybrid Chatbot is an intelligent conversational agent that seamlessly integr
 
 Designed for flexibility, scalability, and ease of customization, this chatbot can be deployed across multiple platforms, including websites, customer support systems, and messaging applications. The hybrid approach ensures that the chatbot remains efficient and reliable while continuously improving through AI-based learning.
 
-Features
+Features:
+
 🤖 Hybrid Intelligence
 Combines AI-driven NLP for advanced query understanding with rule-based responses for predictable interactions.
 Ensures accuracy and reliability while leveraging machine learning for adaptability.
+
 🚀 Scalable & Efficient
 Capable of handling multiple conversations simultaneously.
 Optimized for fast response times, even under heavy usage.
+
 🔧 Customizable & Extendable
 Easily modify intent recognition, response patterns, and AI training data.
 Supports integration with external APIs, databases, and third-party services.
+
 📡 Multi-Platform Support
 Can be deployed on websites, messaging apps (WhatsApp, Telegram, Messenger), and enterprise support systems.
 Offers seamless API integrations for embedding into existing applications.
+
 🧠 Context Awareness & Memory
 Remembers user interactions within a session to maintain conversational flow.
 Can be enhanced with machine learning models for more personalized responses.
+
 🔍 AI-Powered NLP Processing
 Utilizes NLP techniques to understand natural language inputs and provide meaningful responses.
 Can be trained on custom datasets for industry-specific applications.
