@@ -1,3 +1,7 @@
+![Part of BRIHA](https://img.shields.io/badge/Part_of-BRIHA-8B5CF6?style=for-the-badge&labelColor=0B1024)
+
+> ⚡ **Part of [BRIHA](https://github.com/asad110abbas)**, built by Syed Asad Abbas.
+
 Hybrid Chatbot
 Overview
 The Hybrid Chatbot is an intelligent conversational agent that seamlessly integrates AI-based natural language processing (NLP) with rule-based logic to provide dynamic, context-aware, and structured interactions. This dual approach ensures that the chatbot delivers accurate responses by leveraging predefined rules for simple queries while using machine learning models to handle complex, nuanced conversations.
